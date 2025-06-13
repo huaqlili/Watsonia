@@ -11,19 +11,19 @@ I am currently a second-year Master's student at Tsinghua Shenzhen International
 
 My work primarily centers on:  
 
-- Controllable Multimodal Generation
-  ▪ Text-to-image/video Synthesis with Fine-grained Control
-- Low-Level Vision
+- Controllable Multimodal Generation  
+  ▪ Text-to-image/video Synthesis with Fine-grained Control  
+- Low-Level Vision  
   ▪ Image Restoration (denoising, super-resolution, enhancement)  
-  ▪ Computational Imaging (novel reconstruction paradigms)
+  ▪ Computational Imaging (novel reconstruction paradigms)  
 - Self-Supervised & Unsupervised Learning  
   ▪ Representation learning from unlabeled visual data  
 
 For future research, I am particularly interested in topics as follows:
 
-▪ Trustworthy Media Generation
-▪ Visual Editing & Super-Resolution
-▪ Visual Generation for Embodied AI
+▪ Trustworthy Media Generation  
+▪ Visual Editing & Super-Resolution  
+▪ Visual Generation for Embodied AI  
 
 **I am looking for a Ph.D. position (26 Fall) in Generative AI and Image/video reconstruction/generation**, feel free to contact me at lihuaqiu2025@gmail.com or lihq23@mails.tsinghua.edu.cn. 
 
