@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Publications"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+<div style="display: flex; margin-bottom: 2em;">
+  <div style="flex: 0 0 150px; margin-right: 20px;">
+    ![论文示意图](../profile.png "Method Overview")  
+    *<center>图1: 方法框架示意图</center>*
+  </div>
+
+  <div style="flex: 1;">
+    ### [论文标题：基于多模态先验的可控图像生成](https://arxiv.org/abs/xxxx.xxxxx)  
+    **引用格式**：  
+    `作者1, 作者2, 作者3. "标题". 会议简称 年份.`  
+
+    **摘要**：  
+    > 本文提出了一种融合大语言模型与扩散模型的创新框架，通过...（此处用50-100字简要概括研究贡献与技术亮点）。实验表明该方法在PSNR指标上提升12.7%，同时支持自然语言交互控制。
+
+    **关键词**：  
+    `可控生成` `多模态学习` `图像修复` `自监督学习`
+
+    **发表**：  
+    🏆 **CVPR 2025** (Oral) | [Project Page](https://your-project-page.com) | [Code](https://github.com/your-repo)
+  </div>
+</div>
+
+Preprints
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
