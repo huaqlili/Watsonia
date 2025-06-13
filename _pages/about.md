@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year Master's student at Tsinghua Shenzhen International Graduate School (SIGS), majoring in Electronic Information (Artificial Intelligence) under the supervision of Professor Haoqian Wang. In Fall 2023, I earned my Bachelor of Engineering in Aircraft Control and Information Engineering from Beihang University.
+I am currently a 2nd-year Master's student at [Tsinghua Shenzhen International Graduate School (SIGS)](https://www.sigs.tsinghua.edu.cn/), majoring in Electronic Information (Artificial Intelligence) under the supervision of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). In Fall 2023, I earned my Bachelor of Engineering in Aircraft Control and Information Engineering from Beihang University.
 
 My work primarily centers on:  
 
