@@ -31,7 +31,7 @@ For future research, I am particularly interested in topics as follows:
 
 **I am looking for a Ph.D. position (26 Fall) in Generative AI and Image/video reconstruction/generation**, feel free to contact me at lihuaqiu2025@gmail.com or lihq23@mails.tsinghua.edu.cn. 
 
-[Email](mailto:lihuaqiu2025@gmail.com) / [Github](https://github.com/huaqlili) / [CV](../assets/lihuaqiu_cv_202506.pdf) / [Wechat](../images/wechat.png) 
+[Email](mailto:lihuaqiu2025@gmail.com) / [Github](https://github.com/huaqlili) / [CV](../assets/lihuaqiu_cv_202506.pdf) / [Wechat](../images/Wechat.png) 
 
 
 
