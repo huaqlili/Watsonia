@@ -15,6 +15,7 @@ My work primarily centers on:
 
 - **Controllable Multimodal Generation** (e.g., text-to-image/video synthesis with fine-grained control)
 - **Low-Level Vision**
+  
   ▪ Image Restoration (denoising, super-resolution, enhancement)  
   ▪ Computational Imaging (novel reconstruction paradigms)  
 - **Self-Supervised & Unsupervised Learning**  
