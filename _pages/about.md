@@ -9,25 +9,20 @@ redirect_from:
 
 I am currently a second-year Master's student at Tsinghua Shenzhen International Graduate School (SIGS), majoring in Electronic Information (Artificial Intelligence) under the supervision of Professor Haoqian Wang. In Fall 2023, I earned my Bachelor of Engineering in Aircraft Control and Information Engineering from Beihang University.
 
-**Current Research Focus:**  
-
 My work primarily centers on:  
 
-- **Controllable Multimodal Generation** (e.g., text-to-image/video synthesis with fine-grained control)
-- **Low-Level Vision**
+- Controllable Multimodal Generation
+  ▪ Text-to-image/video Synthesis with Fine-grained Control
+- Low-Level Vision
   ▪ Image Restoration (denoising, super-resolution, enhancement)  
   ▪ Computational Imaging (novel reconstruction paradigms)
-  
-- **Self-Supervised & Unsupervised Learning**  
+- Self-Supervised & Unsupervised Learning  
   ▪ Representation learning from unlabeled visual data  
-  ▪ Cross-modal pretraining strategies
 
 For future research, I am particularly interested in topics as follows:
 
 ▪ Trustworthy Media Generation
-
 ▪ Visual Editing & Super-Resolution
-
 ▪ Visual Generation for Embodied AI
 
 **I am looking for a Ph.D. position (26 Fall) in Generative AI and Image/video reconstruction/generation**, feel free to contact me at lihuaqiu2025@gmail.com or lihq23@mails.tsinghua.edu.cn. 
