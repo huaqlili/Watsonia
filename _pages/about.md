@@ -16,10 +16,19 @@ My work primarily centers on:
 - **Controllable Multimodal Generation** (e.g., text-to-image/video synthesis with fine-grained control)
 - **Low-Level Vision**
 - 
-  ▪ Image Restoration (denoising, super-resolution)  
+  ▪ Image Restoration (denoising, super-resolution, enhancement)  
   ▪ Computational Imaging (novel reconstruction paradigms)  
 - **Self-Supervised & Unsupervised Learning**  
   ▪ Representation learning from unlabeled visual data  
-  ▪ Cross-modal pretraining strategies  
+  ▪ Cross-modal pretraining strategies
+
+For future research, I am particularly interested in topics as follows:
+
+▪ Trustworthy Media Generation
+▪ Visual Editing & Super-Resolution
+▪ Visual Generation for Embodied AI
 
 For detailed technical contributions, please refer to my attached [CV](../assets/lihuaqiu_cv_202506.pdf).
+
+**I am looking for a Ph.D. position (26 Fall) in Generative AI and Image/video reconstruction/generation**, feel free to contact me at lihuaqiu2025@gmail.com or lihq23@mails.tsinghua.edu.cn. 
+
