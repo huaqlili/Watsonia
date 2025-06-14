@@ -12,22 +12,12 @@ redirect_from:
 Publications
 ======
 
-[![论文示意图](../profine.png "Method Overview")](https://example.com/full_paper_link)  
-*<center>图1: 方法框架示意图</center>*
-
-### [论文标题：基于多模态先验的可控图像生成](https://arxiv.org/abs/xxxx.xxxxx)
-
-**引用格式**：  
-`作者1, 作者2, 作者3. "标题". 会议简称 年份.`
-
-**摘要**：  
-> 本文提出了一种融合大语言模型与扩散模型的创新框架，通过...（50-100字摘要）。实验表明该方法在PSNR指标上提升12.7%，同时支持自然语言交互控制。
-
-**关键词**：  
-`可控生成` `多模态学习` `图像修复` `自监督学习`
-
-**发表**：  
-🏆 **CVPR 2025** (Oral) | [Project Page](https://your-project-page.com) | [Code](https://github.com/your-repo) | [DOI](https://doi.org/10.xxxx/xxxxxx)
+| ![Method Framework](https://via.placeholder.com/150x200?text=Figure+1){width=150px} | ### [Diffusion-Based Multimodal Generation](https://arxiv.org/abs/1234.5678)  
+**Citation**: `Zhang et al. "Diffusion-MM". CVPR 2025`  
+**Abstract**: > We propose a novel framework combining... achieving 12.7% PSNR improvement.  
+**Keywords**: `diffusion` `multimodal` `control`  
+**Published**: 🏆 **CVPR 2025 (Oral)** \| [Project](https://) \| [Code](https://) |
+|--------------------------------|-----------------------------------------
 
 Preprints
 ======
