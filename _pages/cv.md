@@ -12,12 +12,28 @@ redirect_from:
 Publications
 ======
 
-| ![Method Framework](https://via.placeholder.com/150x200?text=Figure+1){width=150px} | ### [Diffusion-Based Multimodal Generation](https://arxiv.org/abs/1234.5678)  
-**Citation**: `Zhang et al. "Diffusion-MM". CVPR 2025`  
-**Abstract**: > We propose a novel framework combining... achieving 12.7% PSNR improvement.  
-**Keywords**: `diffusion` `multimodal` `control`  
-**Published**: 🏆 **CVPR 2025 (Oral)** \| [Project](https://) \| [Code](https://) |
-|--------------------------------|-----------------------------------------
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/coders_results.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+<a href="https://arxiv.org/abs/2407.06984" style="font-size: 22px; color: #483D8B; text-decoration: none">**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**</a><br>
+<span style="font-size: 18px;">**Chuanrui Zhang\*** , Yonggen Ling\*†, Minglei Lu, Minghan Qin, Haoqian Wang†</span><br>
+<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/coders)   [**Paper**](https://arxiv.org/abs/2407.06984)   [**Code**](#todo)</span>
+
+<span style="font-size: 18px;">-  We present CODERS, a one-stage approach for Category-level Object Detection, pose Estimation and Reconstruction from Stereo images.</span>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/coders_results.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://arxiv.org/abs/2407.06984" style="font-size: 22px; color: #483D8B; text-decoration: none">**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**</a><br>
+<span style="font-size: 18px;">**Chuanrui Zhang\*** , Yonggen Ling\*†, Minglei Lu, Minghan Qin, Haoqian Wang†</span><br>
+<span style="font-size: 18px;">[**Website**](https://xingyoujun.github.io/coders)   [**Paper**](https://arxiv.org/abs/2407.06984)   [**Code**](#todo)</span>
+
+<span style="font-size: 18px;">-  We present CODERS, a one-stage approach for Category-level Object Detection, pose Estimation and Reconstruction from Stereo images.</span>
+
+</div>
+</div>
 Preprints
 ======
